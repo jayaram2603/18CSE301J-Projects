@@ -92,13 +92,13 @@
 | 89 |	AKASH P S (RA2011026010003) | [Link]() | 2 | |
 | 90 |    ACHAL KAMBOJ (RA2011026010028) | [Link]() | 2 | |
 | 91 |	ANMOL AGARWAL (RA2011026010034) | [Link]() | 2 | |
-| 92 |	HARSH KUMAR SURESH KUMAR JAIN (RA2011026010141) | [Link](https://harshjainsk.github.io/18CSE301J_RA2011026010141/) | 2 | :white_check_mark: |
+| 92 |	HARSH KUMAR SURESH KUMAR JAIN (RA2011026010141) | [Link]() | 2 | |
 | 93 |	ANISH TUSHAR PARKHE (RA2011026010285) | [Link]() | 2 | |
 | 94 |	VAARSHITH N (RA2011026010303) | [Link]() | 2 | |
 | 95 |	JANGITI ADITYA (RA2011026010386) | [Link]() | 2 | |
 | 96 |	Siripi Nikhil Kumar Reddy (RA2011026010435) | [Link]() | 2 | |
 | 97 |	Challa Shashank reddy (RA2011026010441) | [Link]() | 2 | |
-| 98 |	Medisetti Jayaram (RA2011026010442) | [Link]() | 2 | |
+| 98 |	Medisetti Jayaram (RA2011026010442) | [Link](https://jayaram2603.github.io/18CSE301J_RA2011026010442/) | 2 |:white_check_mark:|
 | 99 |	SHUBHAM GUSAIN (RA2011027010048) | [Link]() | 2 | |
 | 100 |	Tambe Utkarsh Yashwant (RA2011027010166) | [Link]() | 2 | |
 | 101 |	JAYESH S CHAUDHARI (RA2011028010094) | [Link]() | 2 | |
